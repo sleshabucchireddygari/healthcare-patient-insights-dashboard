@@ -1,0 +1,6 @@
+insurance_type,admissions,total_charges,pct_of_admissions
+Commercial,2042,55052306.0,42.55
+Medicare,1245,43037162.0,25.94
+Medicaid,1037,24649635.0,21.61
+Self-Pay,306,8199544.0,6.38
+Unknown,169,4742006.0,3.52

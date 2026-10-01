@@ -1,0 +1,11 @@
+diagnosis,admissions,readmissions,readmission_rate_pct
+Lung Cancer,171,27,15.79
+Pediatric Asthma,318,50,15.72
+Breast Cancer,166,24,14.46
+Hip Fracture,182,26,14.29
+Multiple Sclerosis,158,22,13.92
+Joint Replacement,204,25,12.25
+Pneumonia,174,21,12.07
+Sepsis,373,43,11.53
+Arrhythmia,237,27,11.39
+Heart Failure,258,29,11.24

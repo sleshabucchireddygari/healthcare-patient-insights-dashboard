@@ -1,0 +1,8 @@
+department,admissions,avg_length_of_stay,readmission_rate_pct,mortality_rate_pct,avg_charge
+General Medicine,1084,3.58,10.42,1.38,14855.0
+Pediatrics,946,2.87,12.47,0.95,10800.0
+Cardiology,758,4.84,10.95,2.24,39740.0
+Orthopedics,560,4.03,11.43,2.14,31236.0
+Oncology,516,6.64,13.57,4.26,59138.0
+Pulmonology,475,5.35,9.47,1.68,27817.0
+Neurology,460,5.77,11.09,2.83,39169.0

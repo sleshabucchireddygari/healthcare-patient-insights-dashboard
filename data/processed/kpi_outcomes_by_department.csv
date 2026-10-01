@@ -1,0 +1,29 @@
+department,outcome,admissions,pct_of_department
+Cardiology,Recovered,431,56.86
+Cardiology,Improved,238,31.4
+Cardiology,Transferred,72,9.5
+Cardiology,Deceased,17,2.24
+General Medicine,Recovered,609,56.18
+General Medicine,Improved,342,31.55
+General Medicine,Transferred,118,10.89
+General Medicine,Deceased,15,1.38
+Neurology,Recovered,252,54.78
+Neurology,Improved,151,32.83
+Neurology,Transferred,44,9.57
+Neurology,Deceased,13,2.83
+Oncology,Recovered,289,56.01
+Oncology,Improved,163,31.59
+Oncology,Transferred,42,8.14
+Oncology,Deceased,22,4.26
+Orthopedics,Recovered,334,59.64
+Orthopedics,Improved,163,29.11
+Orthopedics,Transferred,51,9.11
+Orthopedics,Deceased,12,2.14
+Pediatrics,Recovered,527,55.71
+Pediatrics,Improved,314,33.19
+Pediatrics,Transferred,96,10.15
+Pediatrics,Deceased,9,0.95
+Pulmonology,Recovered,276,58.11
+Pulmonology,Improved,145,30.53
+Pulmonology,Transferred,46,9.68
+Pulmonology,Deceased,8,1.68
